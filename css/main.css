@@ -1,0 +1,9 @@
+#wrapper{
+	border: 1px solid #000;
+	width: 690px;
+	margin: 0 auto;
+}
+
+.menu{
+	text-align: right;
+}
